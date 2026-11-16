@@ -1,0 +1,3 @@
+// Windows resources for rust-pdf.
+// GPUI loads icon resource 1 as the window and taskbar icon; Explorer uses it for the .exe.
+1 ICON "app-icon.ico"

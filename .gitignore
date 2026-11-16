@@ -1,0 +1,22 @@
+# Rust build output
+/target/
+
+# rustfmt / editor backups
+**/*.rs.bk
+*.pdb
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Local test documents
+/*.pdf
